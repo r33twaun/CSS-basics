@@ -1,0 +1,33 @@
+.one {background: url(godzilla1.jpg) no-repeat center fixed;
+    background-size: cover}
+
+.two{background: url(godzilla2.jpg) no-repeat center fixed;
+    background-size: cover}
+    
+.three{background: url(godzilla3.jpg) no-repeat center fixed;
+    background-size: cover}
+     
+h1 {text-align: center;
+color: yellow}
+
+.pic1 {display: block;
+margin-left: auto;
+margin-right: auto;}
+
+h2 {text-align:center;
+color: yellow}
+
+nav{text-align: center;
+background-color: yellow;}
+
+body {font-size: 250%}
+
+.red {color: red;
+text-align: center;}
+
+.green {color: lime;
+text-align: center}
+
+ul {list-style-position:inside}
+
+ol {list-style-position:inside}
